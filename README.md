@@ -2,7 +2,7 @@
 
 Users are going to be able to use our application to put together a list of books that they would like to read.
 
-Using Context System
+Using Context System and Custom Hooks
 
 ## How to run
 
